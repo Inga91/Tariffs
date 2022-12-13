@@ -1,0 +1,99 @@
+.name {
+    border: 0.5px rgb(255, 255, 255) solid;
+    color: rgb(255, 255, 255);
+    font-size: 1.3vw;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 14px;
+}
+
+.name__dedicated {
+    height: 30%;
+    margin-top: 0px;
+    box-shadow: -5px 0px 7px 0px rgba(34, 60, 80, 0.2);
+}
+
+.price {
+    border: 0.5px rgb(255, 255, 255) solid;
+    color: rgb(255, 255, 255);
+}
+
+.price__dedicated, .speed__dedicated {
+    box-shadow: -5px 0px 7px 0px rgba(34, 60, 80, 0.2);
+}
+
+.price_size {
+    font-size: 3vw;
+}
+
+.price_currency {
+    display: inline-block;
+    padding: 0;
+    vertical-align: top;
+    padding-top: 12px;
+}
+.price_month {
+    display: inline-block;
+    padding-left: 0;
+}
+
+
+.name_red {
+    background-color: rgb(146, 52, 52);
+}
+
+.price_red {
+    background-color: rgb(230, 82, 82);
+    
+}
+
+.name_blue {
+    background-color: rgb(78, 100, 228);
+    
+}
+
+.price_blue {
+    background-color: rgb(120, 137, 230);
+    
+}
+
+.name_green {
+    background-color: rgb(66, 188, 98);
+    
+}
+
+.price_green {
+    background-color: rgb(78, 230, 119);
+   
+}
+
+.name_black {
+    background-color: rgb(1, 3, 11);
+    
+}
+
+.price_black {
+    background-color: rgb(24, 26, 31);
+   
+}
+
+.speed {
+    border: 0.5px rgb(255, 255, 255) solid;
+    background-color: rgb(245 245 245);
+    color: rgb(27 27 27);
+    
+}
+
+.info {
+    background-color: rgb(167, 163, 163);
+    color: rgb(27 27 27);
+    border: 0.5px rgb(255, 255, 255) solid;
+    
+}
+
+.info__dedicated {
+    box-shadow: -5px 5px 7px 0px rgba(34, 60, 80, 0.2);
+}
+
